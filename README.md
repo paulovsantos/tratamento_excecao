@@ -1,4 +1,5 @@
 🧮 Calculadora Interativa em Python
+
 Este é um projeto simples de uma calculadora de operações básicas (soma, subtração, multiplicação e divisão), desenvolvida em Python com foco no uso de tratamento de exceções para lidar com entradas inválidas e erros comuns, como divisão por zero.
 
 ✅ Funcionalidades:
